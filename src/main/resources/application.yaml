@@ -1,0 +1,11 @@
+#spring.application.name=springsecurity1
+
+spring:
+  application:
+    name: springsecurity1
+
+  security:
+    user:
+      name: user
+      password: test123
+
