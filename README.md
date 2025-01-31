@@ -1,2 +1,3 @@
 # In-MemoryAuthetication
-This is an authentication and authorization project. In this project  users are stored password created in the memory and are given roles  and are authorize based on their based on their roles
+This is an authentication and authorization project.
+In this project users and passwords are created and stored  in the memory, given roles and authorize based on their based on their roles 
